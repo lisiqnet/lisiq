@@ -1,4 +1,4 @@
-# Lisiq — Infrastructure & Consultancy
+# Lisiq | Infrastructure & Consultancy
 
 Marketing website for Lisiq, a boutique enterprise infrastructure consultancy.
 Static site, no build step, deployed to GitHub Pages.
