@@ -50,3 +50,5 @@ brief asked for (a subtle, low-opacity network topology with mouse parallax)
 at a few KB instead of ~650KB minified, which matters for the Lighthouse
 performance target. It fully respects `prefers-reduced-motion` and pauses
 itself via `IntersectionObserver` whenever the hero scrolls out of view.
+
+Updated
